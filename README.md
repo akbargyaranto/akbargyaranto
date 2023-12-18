@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbargyaranto&label=Profile%20views&color=0e75b6&style=flat" alt="akbargyaranto" /> </p>
 
-<p align="left"> <a href="https://twitter.com/stillnessFlux" target="blank"> <img src="https://img.shields.io/twitter/follow/gyaranto09?logo=twitter&style=for-the-badge" alt="gyaranto09" /></a> </p>
+<p align="left"> <a href="https://twitter.com/stillnessFlux" target="blank"> <img src="https://img.shields.io/twitter/follow/stillnessFlux?logo=twitter&style=for-the-badge" alt="stillnessFlux" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript, Arduino**
 
