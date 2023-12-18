@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbargyaranto&label=Profile%20views&color=0e75b6&style=flat" alt="akbargyaranto" /> </p>
 
-<p align="left"> <a href="https://twitter.com/stillnessFlux" target="blank"> <img src="https://img.shields.io/twitter/follow/stillnessFlux?logo=twitter&style=for-the-badge" alt="stillnessFlux" /></a> </p>
+<p align="left"> <a href="https://twitter.com/akbargyaranto" target="blank"> <img src="https://img.shields.io/twitter/follow/akbargyaranto?logo=twitter&style=for-the-badge" alt="akbargyaranto" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript, Arduino**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/stillnessFlux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stillnessFlux" height="30" width="40" /></a>
+<a href="https://twitter.com/akbargyaranto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stillnessFlux" height="30" width="40" /></a>
 <a href="https://instagram.com/stillness.flux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stillness.flux" height="30" width="40" /></a>
 </p>
 
