@@ -1,4 +1,8 @@
-[![MasterHead](https://i.pinimg.com/564x/5e/a9/16/5ea9160f2a007e629365f7ca216af7e4.jpg)](https://stillness.flux)
+<p align="center">
+  <img src="https://i.pinimg.com/564x/7d/89/65/7d896595214e6101a8960a676241ab8c.jpg" alt="Masterhead" width="1544" height="423">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Akbar Gyaranto Saputra</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
@@ -17,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gyaranto09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gyaranto09" height="30" width="40" /></a>
+<a href="https://twitter.com/stillnessFlux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stillnessFlux" height="30" width="40" /></a>
 <a href="https://instagram.com/stillness.flux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stillness.flux" height="30" width="40" /></a>
 </p>
 
