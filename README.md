@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/dPsLXMn/bannerkucing-1.jpg" alt="Masterhead">
+  <img src="https://i.pinimg.com/564x/7d/89/65/7d896595214e6101a8960a676241ab8c.jpg" alt="Masterhead">
 </p>
 
 
