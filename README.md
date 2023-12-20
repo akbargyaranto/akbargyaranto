@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Javascript, Arduino**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Technology**
 
 - 📫 How to reach me **akbarxploit09@gmail.com**
 
